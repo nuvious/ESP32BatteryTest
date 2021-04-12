@@ -1,0 +1,13 @@
+# Ignore WifiConfig.h as that's the target file for 
+# actual SSID, Password, and server IP information.
+WifiConfig.h
+
+# Ignore server output files t0.txt and t1.txt
+t0.txt
+t1.txt
+
+# VSCode
+.vscode
+
+# Python venv
+venv
