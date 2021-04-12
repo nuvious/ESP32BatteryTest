@@ -2,7 +2,7 @@
 
 This is a simple python app and esp32 sketch to test the battery life of the target microcontroller.
 
-# Prerequisites
+## Prerequisites
 
 This project assumes you have the Arduino IDE setup for your ESP32 and can compile and upload sketches to the module. Additionally this project assumes you have a Python 3 environment to work in (tested on Python 3.7 specifically).
 
